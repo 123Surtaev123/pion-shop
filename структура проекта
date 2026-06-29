@@ -1,0 +1,12 @@
+pion-shop/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+└── images/
+    ├── hero.jpg
+    ├── buket1.jpg
+    ├── buket2.jpg
+    └── buket3.jpg
